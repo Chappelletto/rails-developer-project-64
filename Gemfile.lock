@@ -202,6 +202,7 @@ GEM
     parser (3.3.10.2)
       ast (~> 2.4.1)
       racc
+    pg (1.5.9)
     pp (0.6.3)
       prettyprint
     prettyprint (0.2.0)
@@ -390,6 +391,7 @@ DEPENDENCIES
   jbuilder
   jsbundling-rails
   kamal
+  pg
   propshaft
   puma (>= 5.0)
   rails (~> 8.0.2, >= 8.0.2.1)
